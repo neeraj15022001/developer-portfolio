@@ -2,7 +2,7 @@ const Portfolio = function() {
 	function makeWords() {
 		var words = [
 			{
-				text: "rapping",
+				text: "music",
 				weight: 12.3
 			}, {
 				text: "css3",
@@ -23,7 +23,7 @@ const Portfolio = function() {
 				text: "java",
 				weight: 9
 			}, {
-				text: "qazi",
+				text: "Neeraj",
 				weight: 15
 			}, {
 				text: "newText",
